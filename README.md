@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @RedlaxGH1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+・ Selam Ben, Rwdlax.
+
+・ Bot Geliştiricisiyim.
+
+・ Her gün akşam iş çıkışından sonra botlarla ilgilenirim, yeni sistemler eklemeye çalışırım.
+
+・ Sizde Public/Ekip Sunucularınza Bot Yaptırmak istiyorsanız, discorddan bana ulaşabilirsiniz.
+
+・ Discord Bilgilerim : Rwdlax#0001
 
 <!---
 RedlaxGH1/RedlaxGH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
